@@ -50,7 +50,7 @@ WeaponData
   			// note to billy: if this compiles CORRECTLY, and every other attrib i apply to the FiveSeVen works, revert all
   			// changes to the p228 if I did upload the OP version of the p228's txt file - nrkceg2
 
-	"primary_ammo"			"BULLET_PLAYER_57MM" 
+	"primary_ammo"			"BULLET_PLAYER_338MAG" 
 	"secondary_ammo"		"None"
 
 	"weight"			"5"
