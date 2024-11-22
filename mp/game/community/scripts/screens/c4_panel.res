@@ -8,7 +8,7 @@
 		"ypos"			"0"
 		"zpos"			"-2"
 		"wide"			"480"
-		"tall"			"240"
+		"tall"			"1080"
 
 		"material"		"vgui/screens/c4panel_bg"
 	}
