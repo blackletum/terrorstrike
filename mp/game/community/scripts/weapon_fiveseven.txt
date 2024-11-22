@@ -45,7 +45,10 @@ WeaponData
 	"bucket"			"1"
 	"bucket_position"		"1"
 
-	"clip_size"			"20"
+  		// *whistling an innocuous tune while changing the clip_size from 20 to 120...*
+
+	"clip_size"			"120" // default is 20, but screw 20 we're going 120. Why? Well, because the Terror-Strike Source Engine nerds
+					      // won't whine about inaccuracies when they're getting pulverized by my totally fair FiveSeVen. - nrkceg2
 
   			// note to billy: if this compiles CORRECTLY, and every other attrib i apply to the FiveSeVen works, revert all
   			// changes to the p228 if I did upload the OP version of the p228's txt file - nrkceg2
