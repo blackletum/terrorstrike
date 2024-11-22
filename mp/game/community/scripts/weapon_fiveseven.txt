@@ -61,7 +61,10 @@ WeaponData
 	{
 		//"reload"			"Default.Reload"
 		//"empty"				"Default.ClipEmpty_Rifle"
-		"single_shot"		"Weapon_FiveSeven.Single"
+		//"single_shot"		"Weapon_FiveSeven.Single"
+		//"reload"			"Weapon_AWP.Reload"
+		//"empty"				"Default.ClipEmpty_Rifle"
+		"single_shot"		"Weapon_AWP.Single"
 	}
 
 	// Weapon Sprite data is loaded by the Client DLL.
