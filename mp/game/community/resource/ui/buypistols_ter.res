@@ -156,6 +156,27 @@
 		"cost"			"800"
 	}
 
+	"FiveSeven"
+	{
+		"ControlName"		"MouseOverPanelButton"
+		"fieldName"		"FiveSeven"
+		"xpos"			"52"
+		"ypos"			"276"
+		"wide"			"170"
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"#Cstrike_FiveSeven"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"command"		"buy fiveseven"
+		"cost"			"600"
+	}
+
 	"CancelButton"
 	{
 		"ControlName"		"MouseOverPanelButton"
