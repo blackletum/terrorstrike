@@ -46,8 +46,11 @@ WeaponData
 	"bucket_position"		"1"
 
 	"clip_size"			"20"
-	
-	"primary_ammo"			"BULLET_PLAYER_57MM"
+
+  			// note to billy: if this compiles CORRECTLY, and every other attrib i apply to the FiveSeVen works, revert all
+  			// changes to the p228 if I did upload the OP version of the p228's txt file - nrkceg2
+
+	"primary_ammo"			"BULLET_PLAYER_57MM" 
 	"secondary_ammo"		"None"
 
 	"weight"			"5"
