@@ -1,8 +1,8 @@
 "GameInfo"
 {
 	game	"Terror-Strike: Source" // if any of you "BUT ITS NOT ACCURATE TO THE ORIGINALLL!!!!11!! >:(((((" bastards even think about bitching about the name, I will uh... I'll haunt ur zombies in-game.
-	title	"COUNTER-STRIKE'"
-	title2	"source"
+	title	"TERROR-STRIKE'"
+	title2	""
 	type multiplayer_only
 	nomodels 1
 	nohimodel 1
