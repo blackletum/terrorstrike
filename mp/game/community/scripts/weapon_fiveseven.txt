@@ -7,7 +7,7 @@ WeaponData
 	"WeaponArmorRatio"		"1.5"
 	"CrosshairMinDistance"		"8"
 	"CrosshairDeltaDistance"	"3"
-	"Team"				"ANY"
+	"Team"				"CT"
 	"BuiltRightHanded"		"0"
 	"PlayerAnimationExtension"	"pistol"
 	"MuzzleFlashScale"		"1"
@@ -16,10 +16,10 @@ WeaponData
 	
 	
 	// Weapon characteristics:
-	"Penetration"			"3"
-	"Damage"			"160"
-	"Range"				"8192"
-	"RangeModifier"			"0.99"
+	"Penetration"			"1"
+	"Damage"			"25"
+	"Range"				"4096"
+	"RangeModifier"			"0.885"
 	"Bullets"			"1"
 	"CycleTime"			"0.15"
 	
@@ -45,15 +45,9 @@ WeaponData
 	"bucket"			"1"
 	"bucket_position"		"1"
 
-  		// *whistling an innocuous tune while changing the clip_size from 20 to 120...*
-
-	"clip_size"			"120" // default is 20, but screw 20 we're going 120. Why? Well, because the Terror-Strike Source Engine nerds
-					      // won't whine about inaccuracies when they're getting pulverized by my totally fair FiveSeVen. - nrkceg2
-
-  			// note to billy: if this compiles CORRECTLY, and every other attrib i apply to the FiveSeVen works, revert all
-  			// changes to the p228 if I did upload the OP version of the p228's txt file - nrkceg2
-
-	"primary_ammo"			"BULLET_PLAYER_338MAG" 
+	"clip_size"			"20"
+	
+	"primary_ammo"			"BULLET_PLAYER_57MM"
 	"secondary_ammo"		"None"
 
 	"weight"			"5"
@@ -64,10 +58,7 @@ WeaponData
 	{
 		//"reload"			"Default.Reload"
 		//"empty"				"Default.ClipEmpty_Rifle"
-		//"single_shot"		"Weapon_FiveSeven.Single"
-		//"reload"			"Weapon_AWP.Reload"
-		//"empty"				"Default.ClipEmpty_Rifle"
-		"single_shot"		"Weapon_AWP.Single"
+		"single_shot"		"Weapon_FiveSeven.Single"
 	}
 
 	// Weapon Sprite data is loaded by the Client DLL.

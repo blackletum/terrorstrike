@@ -2,7 +2,7 @@ WeaponData
 {
 	"MaxPlayerSpeed"		"250"
 	"WeaponType"			"Pistol"
-	"FullAuto"				1 // muhahahahaha teh glock is now full auto muhahahahaha im so evil  and bad at wepon balancing and n0-1 w1ll ST0p meee!! >:3
+	"FullAuto"				0
 	"WeaponPrice"			"400"
 	"WeaponArmorRatio"		"1.05"
 	"CrosshairMinDistance"		"8"
