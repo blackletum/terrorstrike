@@ -8,24 +8,24 @@ WeaponData
 	"CrosshairMinDistance"		"9"       // Minimum crosshair distance (for those who use Dynamic crosshairs)
 	"CrosshairDeltaDistance"	"4"       // Crosshair Delta Distance (I forgot what Delta means in this instance)
 	"Team"				"ANY"     // What teams are able to buy this weapon; possible whatevers are 
-	"BuiltRightHanded"		"0"
-	"PlayerAnimationExtension"	"xm1014"
-	"MuzzleFlashScale"		"1.3"
+	"BuiltRightHanded"		"0"       // For if it's built different (for right handedness.)
+	"PlayerAnimationExtension"	"xm1014"  // The weapon's animation extensions.
+	"MuzzleFlashScale"		"1.3"     // How big the Muzzle flash from firing the weapon is. Don't set this too high or you'll get flashbanged every time you shoot.
 	
-	"CanEquipWithShield"		"0"
-	
+	"CanEquipWithShield"		"0"       // Leftover from Condition Zero, although I think BillySB's attempting to restore the Shield's functionality since it's
+	      					  // code is still leftover.
 	// Weapon characteristics:
-	"Penetration"			"1"
-	"Damage"			"22"
-	"Range"				"3000"
-	"RangeModifier"			"0.70"
-	"Bullets"			"6"
-	"CycleTime"			"0.25"
+	"Penetration"			"1"       // How good the penetration is, the higher the value, the more likely you are to pierce multiple enemies with one shot.
+	"Damage"			"22"      // It's obvious.
+	"Range"				"3000"    // This one's also obvious.
+	"RangeModifier"			"0.70"    // It modifies the range listed above. Don't exactly know how yet.
+	"Bullets"			"6"       // This one confused me; it's how many bullets get shot from the weapon when fired. In this case, 6. Try 2300, I dare you.
+	"CycleTime"			"0.25"    // Weapon cycle time, I think this is for when you get it out and put it away.
 	
 	// New accuracy model parameters
-	
-	"Spread"					0.04000
-	"InaccuracyCrouch"			0.00750
+	// old*** since this code's probably from at least 2003.
+	"Spread"					0.04000  // bullet spread.
+	"InaccuracyCrouch"			0.00750          // the rest of these are self explanitory, just read the names.
 	"InaccuracyStand"			0.01000
 	"InaccuracyJump"			0.41176
 	"InaccuracyLand"			0.08235
@@ -37,20 +37,20 @@ WeaponData
 	"RecoveryTimeStand"			0.46052
 	
 	// Weapon data is loaded by both the Game and Client DLLs.
-	"printname"			"#Cstrike_WPNHUD_xm1014"
-	"viewmodel"			"models/weapons/v_shot_xm1014.mdl"
-	"playermodel"			"models/weapons/w_shot_xm1014.mdl"
+	"printname"			"#Cstrike_WPNHUD_xm1014"            // The weapon name (internally[?])
+	"viewmodel"			"models/weapons/v_shot_xm1014.mdl"  // viewmodel.
+	"playermodel"			"models/weapons/w_shot_xm1014.mdl"  // playermodel/what's shown to other players while held.
 	
 	"anim_prefix"			"anim"
 	"bucket"			"0"
 	"bucket_position"		"0"
 
-	"clip_size"			"7"
+	"clip_size"			"7"  // dictates how big one ~~clip~~ mag is. 
 	
-	"primary_ammo"			"BULLET_PLAYER_BUCKSHOT"
-	"secondary_ammo"		"None"
+	"primary_ammo"			"BULLET_PLAYER_BUCKSHOT"  // primary fire ammo type
+	"secondary_ammo"		"None"  // secondary fire ammo type, usually not used in Counter-Strike.
 
-	"weight"			"20"
+	"weight"			"20"  // Weight; it affects how fast the player speed is.
 	"item_flags"			"0"
 
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
