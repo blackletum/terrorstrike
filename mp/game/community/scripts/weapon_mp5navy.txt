@@ -1,6 +1,6 @@
 WeaponData
 {
-	"MaxPlayerSpeed"		"250"
+	"MaxPlayerSpeed"		"250"  // todo: revert mp5 and other guns to their defaults, namely the ones that are extremely unbalanced, such as this one and the fiveseven, because well, having a mp5 that has 1 bullet per magazine, and that bullet somehow deals 2 million damage, and somehow has a penetration val of 5, isn't exactly balanced.
 	"WeaponType"			"SubMachinegun"
 	"FullAuto"				1
 	"WeaponPrice"			"1"
