@@ -1,5 +1,8 @@
 WeaponData
-{
+{ 
+
+// the weapon script formatting: "weapon_[weaponname].txt", for those that need it or something.
+
 	"MaxPlayerSpeed" 		"240"  // Maximum Player Speed
 	"WeaponType" 			"Shotgun" // what kind of weapon/weapon category
 	"FullAuto"				1 // if you can hold MOUSE1 and it shoot automagically.
