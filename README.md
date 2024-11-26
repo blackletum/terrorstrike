@@ -42,7 +42,7 @@ Although this mod is based on SourcePlusPlus's CSS Port, some things will not wo
 
 ### nrk's to do list:
  - [ ] add T-side weapons to CT buy menu for balancing
- - [ ] try and figure out why my local copy has a weird font loading bug
+ - [x] try and figure out why my local copy has a weird font loading bug
  - [ ] update some more UI elements
  - [ ] ask billy if I can start contributing to the mod proper instead of just messing around on my fork
  - [ ] figure out how pull requests work then send one over
