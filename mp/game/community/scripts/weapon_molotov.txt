@@ -32,7 +32,7 @@ WeaponData
 
 	"clip_size"			"-1"
 	"default_clip"			"1"
-	"primary_ammo"			"AMMO_TYPE_MOLOTOV"
+	"primary_ammo"			"AMMO_TYPE_MOLOTOV" // AKA: arson
 	"secondary_ammo"		"None"
 
 	"weight"			"2"
