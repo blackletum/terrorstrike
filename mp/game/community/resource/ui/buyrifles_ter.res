@@ -179,6 +179,26 @@
 		"cost"			"5000"
 		"as_restrict"		"1"
 	}
+	"m4a1"
+	{
+		"ControlName"		"MouseOverPanelButton"
+		"fieldName"		"m4a1"
+		"xpos"			"52"
+		"ypos"			"308"
+		"wide"			"170"
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"#Cstrike_M4A1"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"command"		"buy m4a1"
+		"cost"			"3100"
+	}
 
 	"CancelButton"
 	{
