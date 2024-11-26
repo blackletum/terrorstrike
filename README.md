@@ -40,6 +40,14 @@ Although this mod is based on SourcePlusPlus's CSS Port, some things will not wo
 - The Dynamic crosshair it’s not the same to the he original CSS someone of the cvars don’t work.
 - Using the Bots may cause the game crash. 
 
+### nrk's to do list:
+ - [ ] add T-side weapons to CT buy menu for balancing
+ - [ ] try and figure out why my local copy has a weird font loading bug
+ - [ ] update some more UI elements
+ - [ ] ask billy if I can start contributing to the mod proper instead of just messing around on my fork
+ - [ ] figure out how pull requests work then send one over
+ - [ ] make more terror-strike purists mad by making more UI and balance changes (even if they're for the better)
+
 ### Credits
 
 |           **Valve**            |           Source Engine and Counter Strike Source            |
