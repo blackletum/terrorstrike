@@ -1,13 +1,13 @@
 WeaponData
 {
-	"MaxPlayerSpeed" 		"240"
-	"WeaponType" 			"Shotgun"
-	"FullAuto"				1
-	"WeaponPrice"			"3000"
-	"WeaponArmorRatio"		"1.0"
-	"CrosshairMinDistance"		"9"
-	"CrosshairDeltaDistance"	"4"
-	"Team"				"ANY"
+	"MaxPlayerSpeed" 		"240"  // Maximum Player Speed
+	"WeaponType" 			"Shotgun" // what kind of weapon/weapon category
+	"FullAuto"				1 // if you can hold MOUSE1 and it shoot automagically.
+	"WeaponPrice"			"3000"    // how much it costs, should be something like "1400" or "2500" for what is known as "normal pricing"
+	"WeaponArmorRatio"		"1.0"     // It's in the name. Weapon Armor Ratio. I don't exactly know what this does yet.
+	"CrosshairMinDistance"		"9"       // Minimum crosshair distance (for those who use Dynamic crosshairs)
+	"CrosshairDeltaDistance"	"4"       // Crosshair Delta Distance (I forgot what Delta means in this instance)
+	"Team"				"ANY"     // What teams are able to buy this weapon; possible whatevers are 
 	"BuiltRightHanded"		"0"
 	"PlayerAnimationExtension"	"xm1014"
 	"MuzzleFlashScale"		"1.3"
