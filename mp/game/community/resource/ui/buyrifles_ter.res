@@ -199,6 +199,26 @@
 		"command"		"buy m4a1"
 		"cost"			"3100"
 	}
+	"famas"
+	{
+		"ControlName"		"MouseOverPanelButton"
+		"fieldName"		"famas"
+		"xpos"			"52"
+		"ypos"			"340"
+		"wide"			"170"
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"#Cstrike_Famas"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"command"		"buy famas"
+		"cost"			"2250"
+	}
 
 	"CancelButton"
 	{
