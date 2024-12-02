@@ -161,7 +161,7 @@
 		"ControlName"		"MouseOverPanelButton"
 		"fieldName"		"FiveSeven"
 		"xpos"			"52"
-		"ypos"			"244"
+		"ypos"			"276"
 		"wide"			"170"
 		"tall"			"20"
 		"autoResize"	"0"
