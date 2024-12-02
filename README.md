@@ -31,6 +31,8 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
 ### Things I need to figure out:
 
 - [ ] Why is Medium.OTF (a CS:GO font) in the resource folder, and when is it used?
+- [ ] How to code in C++ since practically all of the game's code is written in it, so for me to make any major modification I'd need to learn Source SDK and C++.
+- [ ] Figure out if Medium.OTF is even used by the game at all, since it doesn't seem like OpenType (OTF) is recognized by CS:S since it's fonts use TrueType (TTF)
 
 ### Bug
 
@@ -44,7 +46,7 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
 - Using the Bots may cause the game crash. 
 
 ### nrk's to do list:
- - [ ] add T-side weapons to CT buy menu for balancing
+ - [x] add T-side weapons to CT buy menu for balancing
  - [x] try and figure out why my local copy has a weird font loading bug
  - [ ] update some more UI elements
  - [ ] ask billy if I can start contributing to the mod proper instead of just messing around on my fork
