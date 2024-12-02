@@ -51,7 +51,7 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
  - [ ] update some more UI elements
  - [ ] ask billy if I can start contributing to the mod proper instead of just messing around on my fork
  - [ ] figure out how pull requests work then send one over
- - [ ] make more terror-strike purists mad by making more UI and balance changes (even if they're for the better)
+ - [x] make more terror-strike purists mad by making more UI and balance changes (even if they're for the better)
 
 ### Credits
 
