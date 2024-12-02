@@ -1,3 +1,6 @@
+## !!!
+If you experience issues with the game rendering your hud gun sprites/hud whatevers with everything being the CS Title font, check your installed Fonts (if you're on Windows) since CS:S uses fonts to render things, it prioritizes the fonts you have installed on your machine over the ones in the sourcemod's \resource\ folder (for some reason.)
+
 ## New Readme:
 This repo fixes bot pathfinding and ragdoll crashes. It also reimplements valves prototype gamemode for left 4 dead. Terror-Strike or Terror.
 You must add the TERROR macro to the server project to enable this.
