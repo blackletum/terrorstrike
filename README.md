@@ -27,7 +27,7 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
 - [ ] Implement Class Based Hands Like CSGO
 - [ ] Implement CSPromod's Shadows RTT
 - [ ] Bring back to life the shield.
-- [ ] 
+
 ### Bug
 
 - The prop’s physics is a little... estranged... well sometimes you pass the entire prop but other times the prop push the player.
