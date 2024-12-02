@@ -27,13 +27,7 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
 - [ ] Implement Class Based Hands Like CSGO
 - [ ] Implement CSPromod's Shadows RTT
 - [ ] Bring back to life the shield.
-
-### Things I need to figure out:
-
-- [ ] Why is Medium.OTF (a CS:GO font) in the resource folder, and when is it used?
-- [ ] How to code in C++ since practically all of the game's code is written in it, so for me to make any major modification I'd need to learn Source SDK and C++.
-- [ ] Figure out if Medium.OTF is even used by the game at all, since it doesn't seem like OpenType (OTF) is recognized by CS:S since it's fonts use TrueType (TTF)
-
+- [ ] 
 ### Bug
 
 - The prop’s physics is a little... estranged... well sometimes you pass the entire prop but other times the prop push the player.
@@ -45,6 +39,8 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
 - The Dynamic crosshair it’s not the same to the he original CSS someone of the cvars don’t work.
 - Using the Bots may cause the game crash. 
 
+### --- these two bits are from NRKCEG2!! ---
+
 ### nrk's to do list:
  - [x] add T-side weapons to CT buy menu for balancing
  - [x] try and figure out why my local copy has a weird font loading bug
@@ -52,6 +48,12 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
  - [ ] ask billy if I can start contributing to the mod proper instead of just messing around on my fork
  - [ ] figure out how pull requests work then send one over
  - [x] make more terror-strike purists mad by making more UI and balance changes (even if they're for the better)
+
+### Things I need to figure out:
+
+- [ ] Why is Medium.OTF (a CS:GO font) in the resource folder, and when is it used?
+- [ ] How to code in C++ since practically all of the game's code is written in it, so for me to make any major modification I'd need to learn Source SDK and C++.
+- [ ] Figure out if Medium.OTF is even used by the game at all, since it doesn't seem like OpenType (OTF) is recognized by CS:S since it's fonts use TrueType (TTF)
 
 ### Credits
 
