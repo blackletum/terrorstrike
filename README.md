@@ -28,9 +28,9 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
 - [ ] Implement CSPromod's Shadows RTT
 - [ ] Bring back to life the shield.
 
-### Warning
+### Things I need to figure out:
 
-Although this mod is based on SourcePlusPlus's CSS Port, some things will not work has expected.
+- [ ] Why is Medium.OTF (a CS:GO font) in the resource folder, and when is it used?
 
 ### Bug
 
