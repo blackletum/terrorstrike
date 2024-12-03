@@ -68,7 +68,7 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
 |         **NicolasDe**          |                 **For his amazing GameUI2**                  |
 |        **TotallyMehis**        | **Creator of Zombie Master: Reborn and some code that is used here** |
 |         **Spirrwell**          |                   **FMOD Implementation**                    |
-|         **BillySB**          |                   **Basic Terror-Strike gamemode**                    |
+|         **BillySB**          |                   **Basic Terror-Strike gamemode** ...<sub>and generally being a cool guy.</sub>                    |
 |         **Sregor**          |                   **Left 4 Dead common infected player models.**                    |
 |   **FriskTheFallenHuman**   |                **Original cscommunity repo that this fork builds on**    |
 |         **nrkceg2**         |     **motd, gameinfo, ~~eating~~ modding a lot of res files, and weapon stuffs.**       |
