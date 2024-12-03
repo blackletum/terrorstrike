@@ -57,6 +57,7 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
 
 ### hehehehehehe
 <img src="https://github.com/nrkceg2/terrorstrike/blob/main/~misc-whatevers/funny-number.png?raw=true">
+(as of 03 December 2024 @ 11:06:06 AM UTC-5 [Eastern Standard Time])
 
 ### Credits
 
