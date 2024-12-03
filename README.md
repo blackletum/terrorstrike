@@ -9,12 +9,10 @@ You must add the TERROR macro to the server project to enable this.
 First make sure you have Counter-Strike: Source installed.
 If this is while loading a map it might be an unsupported navmesh file version. Remove this file and try again.
 
-## Original Readme: Counter Strike Source: Community Edition
+## nrk's summary of the original CS:S community readme
 
-**Counter Strike Source: Community Edition** is open source port of the leaked 2007 Source engine leak of the award winner Counter Strike Source. 
-
-This mod is orient to Community so everyone can grow the mod with his Contributions.
-Currently this mod is in a pre-alpha state so don’t expected any class of bugs.
+**Counter Strike Source: Community Edition** is open source port of the leaked 2007 Source engine leak of CS:Source.
+This mod was originally made to transition everybody from CS:S to CS:S:CE, but you can see how well *that* worked out.
 
 ### Goals
 
@@ -48,6 +46,7 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
  - [ ] ask billy if I can start contributing to the mod proper instead of just messing around on my fork
  - [ ] figure out how pull requests work then send one over
  - [x] make more terror-strike purists mad by making more UI and balance changes (even if they're for the better)
+ - [ ] upload my config for those who want to fiddle with Hammer.
 
 ### Things I need to figure out:
 
