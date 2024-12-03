@@ -39,7 +39,7 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
 - The Dynamic crosshair it’s not the same to the he original CSS someone of the cvars don’t work.
 - Using the Bots may cause the game crash. 
 
-### --- these two bits are from NRKCEG2!! ---
+### --- these bits are from NRKCEG2!! ---
 
 ### nrk's to do list:
  - [x] add T-side weapons to CT buy menu for balancing
@@ -55,6 +55,9 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
 - [ ] How to code in C++ since practically all of the game's code is written in it, so for me to make any major modification I'd need to learn Source SDK and C++.
 - [ ] Figure out if Medium.OTF is even used by the game at all, since it doesn't seem like OpenType (OTF) is recognized by CS:S since it's fonts use TrueType (TTF)
 
+### hehehehehehe
+<img src="https://github.com/nrkceg2/terrorstrike/blob/main/~misc-whatevers/funny-number.png?raw=true">
+
 ### Credits
 
 |           **Valve**            |           Source Engine and Counter Strike Source            |
@@ -67,4 +70,4 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
 |         **BillySB**          |                   **Basic Terror-Strike gamemode**                    |
 |         **Sregor**          |                   **Left 4 Dead common infected player models.**                    |
 |   **FriskTheFallenHuman**   |                **Original cscommunity repo that this fork builds on**    |
-|         **nrkceg2**         |     **New MOTD and gameinfo, and feature ideas I guess idk - nrkceg2**       |
+|         **nrkceg2**         |     **motd, gameinfo, ~~eating~~ modding a lot of res files, and weapon stuffs.**       |
