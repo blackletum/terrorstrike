@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//====== Copyright Â© 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose:
 //
@@ -73,9 +73,9 @@ void BuyPresetManager::GetCurrentLoadout( WeaponSet *weaponSet )
 
 	// Grab current equipment
 	weaponSet->m_defuser = player->HasDefuser();
-	weaponSet->m_nightvision = player->HasNightVision();
-
-	// Grab current primary weapon
+	weaponSet->m_nightvision = player->HasNightVision(); // Hey Billy, would it be possible to remove nightvision from the game?
+							     // I know its a big change, and we'd have to pulverize any instance of it from
+	// Grab current primary weapon                       // the code, but literally nobody uses that green hue P.O.S anyways. - nrk
 	CSWeaponID primaryID = GetClientWeaponID( true );		///< The local player's current primary weapon
 	pInfo = GetWeaponInfo( primaryID );
 	if ( pInfo )
