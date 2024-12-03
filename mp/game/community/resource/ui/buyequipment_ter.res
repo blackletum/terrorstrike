@@ -134,13 +134,34 @@
 		"command"		"buy hegrenade"
 		"cost"			"300"
 	}
-	
+
+	"hegrenade"
+	{
+		"ControlName"		"MouseOverPanelButton"
+		"fieldName"		"molotov"
+				"xpos"		"52"
+		"ypos"		"244"
+		"wide"		"170"
+		"tall"		"20"
+		"autoResize"		"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		"#Cstrike_Molotov"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"command"		"buy molotov"
+		"cost"			"350"
+	}
+
 	"smokegrenade"
 	{
 		"ControlName"		"MouseOverPanelButton"
 		"fieldName"		"smokegrenade"
 					"xpos"		"52"
-		"ypos"		"244"
+		"ypos"		"276"
 		"wide"		"170"
 		"tall"		"20"
 		"autoResize"		"0"
@@ -161,7 +182,7 @@
 		"ControlName"		"MouseOverPanelButton"
 		"fieldName"		"nightvision"
 				"xpos"		"52"
-		"ypos"		"276"
+		"ypos"		"308"
 		"wide"		"170"
 		"tall"		"20"
 		"autoResize"		"0"
