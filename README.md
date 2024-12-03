@@ -24,7 +24,7 @@ This mod was originally made to transition everybody from CS:S to CS:S:CE, but y
 - [ ] Implement the Vote System so everyone can vote without using plugins
 - [ ] Implement Class Based Hands Like CSGO
 - [ ] Implement CSPromod's Shadows RTT
-- [ ] Bring back to life the shield. [According to Billy; adding the molotov SUCHED, so re-implementing the shield is gonna suck even harder.]
+- [ ] Bring back to life the shield. [According to Billy; adding the molotov SUCKED, so re-implementing the shield is gonna suck even harder.]
 
 ### Bug
 
