@@ -1,4 +1,4 @@
-//====== Copyright © 1996-2005, Valve Corporation, All rights reserved. =======
+//====== Copyright Â© 1996-2005, Valve Corporation, All rights reserved. =======
 //
 // Purpose:
 //
@@ -73,9 +73,9 @@ void BuyPresetManager::GetCurrentLoadout( WeaponSet *weaponSet )
 
 	// Grab current equipment
 	weaponSet->m_defuser = player->HasDefuser();
-	weaponSet->m_nightvision = player->HasNightVision();
-
-	// Grab current primary weapon
+	weaponSet->m_nightvision = player->HasNightVision(); // Hey Billy, would it be possible to remove nightvision from the game?
+							     // I know its a big change, and we'd have to pulverize any instance of it from
+	// Grab current primary weapon                       // the code, but literally nobody uses that green hue P.O.S anyways. - nrk
 	CSWeaponID primaryID = GetClientWeaponID( true );		///< The local player's current primary weapon
 	pInfo = GetWeaponInfo( primaryID );
 	if ( pInfo )
@@ -222,6 +222,21 @@ void WeaponSet::GetCurrent( int& cost, WeaponSet& ws ) const
 		ws.m_HEGrenade = true;
 		hasHEGrenade = true;
 	}
+
+	//-------------------------------------------------------------------------
+	// Molotov.
+	// DO NOT UNCOMMENT, it will break prebuy options.
+	/*pWeapon = dynamic_cast< CWeaponCSBase * >(player->GetCSWeapon(WEAPON_MOLOTOV));
+	pInfo = GetWeaponInfo(WEAPON_MOLOTOV);
+	ammoType = (pInfo) ? pInfo->iAmmoType : 0;
+
+	bool hasMolotov = (pWeapon && player->GetAmmoCount(ammoType));
+	if (m_Molotov && !hasMolotov)
+	{
+		cost += pInfo->GetWeaponPrice();
+		ws.m_Molotov = true;
+		hasMolotov = true;
+	}*/
 
 	//-------------------------------------------------------------------------
 	// Flashbang grenades

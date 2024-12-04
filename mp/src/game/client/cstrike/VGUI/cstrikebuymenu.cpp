@@ -172,9 +172,9 @@ CCSBuyMenu_CT::CCSBuyMenu_CT(IViewPort *pViewPort) : CCSBaseBuyMenu( pViewPort, 
 //-----------------------------------------------------------------------------
 // Purpose: Constructor
 //-----------------------------------------------------------------------------
-CCSBuyMenu_TER::CCSBuyMenu_TER(IViewPort *pViewPort) : CCSBaseBuyMenu( pViewPort, "BuySubMenu_TER" )
+CCSBuyMenu_TER::CCSBuyMenu_TER(IViewPort *pViewPort) : CCSBaseBuyMenu(pViewPort, "BuySubMenu_TER")
 {
-	m_pMainMenu->LoadControlSettings( "Resource/UI/BuyMenu_TER.res" );
+	m_pMainMenu->LoadControlSettings("Resource/UI/BuyMenu_TER.res");
 	m_pMainMenu->SetVisible( false );
 
 	m_iTeam = TEAM_TERRORIST;
@@ -419,7 +419,8 @@ const char *g_pWeaponNames[] =
 	" ",
 	"#Cstrike_TitlesTXT_Kevlar_Vest",
 	"#Cstrike_TitlesTXT_Kevlar_Vest_Ballistic_Helmet",
-	"#Cstrike_TitlesTXT_Nightvision_Goggles"
+	"#Cstrike_TitlesTXT_Nightvision_Goggles",
+	"#Cstrike_molotov_Grenade"
 };
 
 int GetWeeklyBargain( void )
