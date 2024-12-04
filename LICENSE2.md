@@ -1,14 +1,24 @@
 uhhh
+
 second license.
+
 the base of this mod (CS Community) is not mine, nor is it billy's, read credits
+
 source sdk base 2013 multiplayer belongs to valve
+
 source engine in general belongs to valve
+
 the terror-strike concept belongs to both valve and turtle rock studios
+
 left 4 dead belongs to valve
 
+
 you may not, under ***ANY*** circumstances, sell, or distribute this mod with intent of monetary gain, because this mod is free.
+
 you *can* however, mod the mod. Feel free to fork either mine or billy's branches, I'd reccomend his though since his is more up to date and has more bugfixes implemented.
+
 Plus he's got the molotov I think mostly implemented.
+
 You could probably mess with my fork when I end up figuring out pull requests, which might take me a few (thousand) ~~days~~ ~~years~~ millenia.
 
 seriously though.
