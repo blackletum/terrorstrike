@@ -75,10 +75,10 @@ Terrorist_Select
 {
 \ySelect your appearance\w
 
-1. Phoenix Connexion
-2. Elite Crew
-3. Arctic Avengers
-4. Guerilla Warfare
+1. The one everybody uses
+2. 1337 haxor
+3. mountain dew drinker
+4. that one guy
 
 5. Auto-select
 }
@@ -87,10 +87,10 @@ CT_Select
 {
 \ySelect your appearance\w
 
-1. Seal Team 6
-2. GSG-9
-3. SAS
-4. GIGN
+1. Seel Teem Sicks
+2. gsgsgsg 2
+3. Sass
+4. this guy
 
 5. Auto-select
 }

@@ -7,7 +7,7 @@ WeaponData
 	"WeaponArmorRatio"		"1.4"
 	"CrosshairMinDistance"		"4"
 	"CrosshairDeltaDistance"	"3"
-	"Team"				"CT"
+	"Team"				"ANY"
 	"BuiltRightHanded"		"1"
 	"PlayerAnimationExtension"	"famas"
 	"MuzzleFlashScale"		"1.3"

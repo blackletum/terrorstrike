@@ -7,7 +7,7 @@ WeaponData
 	"WeaponArmorRatio"		"1.55"
 	"CrosshairMinDistance"		"4"
 	"CrosshairDeltaDistance"	"4"
-	"Team" 				"TERRORIST"
+	"Team" 				"ANY"
 	"BuiltRightHanded" 		"0"
 	"PlayerAnimationExtension" 	"ak"
 	"MuzzleFlashScale"		"1.6"

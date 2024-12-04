@@ -178,6 +178,48 @@
 		"cost"			"4750"
 		"as_restrict"		"1"
 	}
+
+	"galil"
+	{
+		"ControlName"		"MouseOverPanelButton"
+		"fieldName"		"galil"
+		"xpos"			"52"
+		"ypos"			"308"
+		"wide"			"170"
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"#Cstrike_Galil"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"command"		"buy galil"
+		"cost"			"2000"
+	}
+
+	"ak47"
+	{
+		"ControlName"		"MouseOverPanelButton"
+		"fieldName"		"ak47"
+		"xpos"			"52"
+		"ypos"			"340"
+		"wide"			"170"
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"#Cstrike_AK47"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"command"		"buy ak47"
+		"cost"			"2500"
+	}
 		
 
 	"CancelButton"

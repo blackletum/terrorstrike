@@ -32,7 +32,7 @@ WeaponData
 
 	"clip_size"			"-1"
 	"default_clip"			"1"
-	"primary_ammo"			"AMMO_TYPE_MOLOTOV"
+
 	"secondary_ammo"		"None"
 
 	"weight"			"2"
@@ -97,4 +97,4 @@ WeaponData
 			Maxs	"2 3 5"
 		}
 	}
-}
+

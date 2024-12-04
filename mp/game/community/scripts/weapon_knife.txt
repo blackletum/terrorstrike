@@ -1,6 +1,6 @@
 WeaponData
 {
-	"MaxPlayerSpeed"		"250"
+	"MaxPlayerSpeed"		"330"
 	"WeaponType"			"Knife"
 	"WeaponPrice"			"0"
 	"WeaponArmorRatio"		"1.7"
@@ -10,7 +10,7 @@ WeaponData
 	"BuiltRightHanded"		"1"
 	"PlayerAnimationExtension"	"knife"
 	"MuzzleFlashScale"		"0"
-	"MuzzleFlashStyle"		"CS_MUZZLEFLASH_NONE"
+	"MuzzleFlashStyle"		"CS_MUZZLEFLASH_X" // yeah no for those wanting "cool accuracy" my fork is not the fork for you. I added a muzzle flash to the knife.
 	"CanEquipWithShield"		"1"
 	
 	

@@ -134,13 +134,34 @@
 		"command"		"buy deagle"
 		"cost"			"650"
 	}
-	
+
+	"Elites"
+	{
+		"ControlName"		"MouseOverPanelButton"
+		"fieldName"		"Elites"
+				"xpos"		"52"
+		"ypos"		"244"
+		"wide"		"170"
+		"tall"		"20"
+		"autoResize"		"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		"#Cstrike_Elites"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"command"		"buy elite"
+		"cost"			"800"
+	}
+
 	"FiveSeven"
 	{
 		"ControlName"		"MouseOverPanelButton"
 		"fieldName"		"FiveSeven"
 		"xpos"			"52"
-		"ypos"			"244"
+		"ypos"			"276"
 		"wide"			"170"
 		"tall"			"20"
 		"autoResize"	"0"
