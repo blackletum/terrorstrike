@@ -1,9 +1,9 @@
 WeaponData
 {
-	"MaxPlayerSpeed"		"250"
+	"MaxPlayerSpeed"		"240"
 	"WeaponType"			"Pistol"
 	"FullAuto"				0
-	"WeaponPrice"			"650"
+	"WeaponPrice"			"450"
 	"WeaponArmorRatio"		"1.5"
 	"CrosshairMinDistance"		"8"
 	"CrosshairDeltaDistance"	"3"
@@ -16,9 +16,9 @@ WeaponData
 	
 	
 	// Weapon characteristics:
-	"Penetration"			"2"
-	"Damage"			"54"
-	"Range"				"4096"
+	"Penetration"			"3"  // bumped up pene. & dmg. cuz why not at the cost of speed
+	"Damage"			"64" // you all now move at 240 hu/s with deagle, find a new meta, nerds.
+	"Range"				"6140"
 	"RangeModifier"			"0.81"
 	"Bullets"			"1"
 	"CycleTime"			"0.225"
