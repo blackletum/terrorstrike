@@ -1,6 +1,7 @@
 WeaponData
 {
-	"MaxPlayerSpeed"			"220" // literally the only thing i'm gonna change about the awp.
+	"MaxPlayerSpeed"			"220" // 210 -> 220
+						      // literally the only thing i'm gonna change about the awp.
 	"WeaponType" 			"SniperRifle" // this thing's too good already and my general goal is to
 	"FullAuto"				0     // make everything make the awp pretty much obsolete.
 	"WeaponPrice"			"4750"	      // why?
