@@ -27,7 +27,7 @@
 		"specifics"		"ingame"
 	}
 	
-	"FindServrer"
+	"FindServer"
 	{
 		"text"			"#GameUI2_FindServer"
 		"description"	"#GameUI2_FindServerDescription"
