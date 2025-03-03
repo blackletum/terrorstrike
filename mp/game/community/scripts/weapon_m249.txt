@@ -1,6 +1,6 @@
 WeaponData
 {
-	"MaxPlayerSpeed"		"220" 
+	"MaxPlayerSpeed"		"260" // 220 -> 260 cuz the people who ACTUALLY use this deserve a little more speed.
 	"WeaponType"			"Machinegun"
 	"FullAuto"				1
 	"WeaponPrice"			"5750"
@@ -16,11 +16,11 @@ WeaponData
 
 	
 	// Weapon characteristics:
-	"Penetration"			"2"
-	"Damage"			"35"
-	"Range"				"8192"
+	"Penetration"			"3"    // i think this was 2 originally. [citation needed]
+	"Damage"			"60"   // because if youre unloading into an enemy with this, you'll barely hit your shots.
+	"Range"				"8192" // so here i am compensating for stuff that doesn't need rebalancing!
 	"RangeModifier"			"0.97"
-	"Bullets"			"1"
+	"Bullets"			"5"    // 1 -> 5 because i said so.
 	"CycleTime"			"0.08"
 	"AccuracyDivisor"		"175"
 	"AccuracyOffset"		"0.4"
@@ -50,14 +50,15 @@ WeaponData
 	"bucket"			"0"
 	"bucket_position"		"0"
 
-	"clip_size"			"100"
-	
+	"clip_size"			"100" // iirc this is for the single clip/mag you get. not modifying this cuz i think
+					      // 100 is enough.
 	"primary_ammo"			"BULLET_PLAYER_556MM_BOX"
 	"secondary_ammo"		"None"
 
-	"weight"			"25"
-	"item_flags"			"0"
-
+	"weight"			"15" // 25 -> 15 because speed with a machine gun in my mind is funny.
+	"item_flags"			"0"  // like imagine ur on dust2 and some dude with a m249 just absolutely legs it to
+					     // bomb site like he's running a marathon. to some degree, he deserves the speed.
+					     // (mostly cuz the gun he's using is normally hot garbage.)
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	SoundData
 	{
