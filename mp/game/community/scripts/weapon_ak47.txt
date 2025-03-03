@@ -2,7 +2,7 @@ WeaponData
 {
 	"MaxPlayerSpeed"		"221"
 	"WeaponType"			"Rifle"
-	"FullAuto"				1
+	"FullAuto"				0
 	"WeaponPrice"			"2500"
 	"WeaponArmorRatio"		"1.55"
 	"CrosshairMinDistance"		"4"
@@ -17,9 +17,9 @@ WeaponData
 	
 	// Weapon characteristics:
 	"Penetration"			"2"
-	"Damage"			"36"
+	"Damage"			"50"
 	"Range"				"8192"
-	"RangeModifier"			"0.98"
+	"RangeModifier"			"1.2"
 	"Bullets"			"1"
 	"CycleTime"			"0.1"
 	"AccuracyDivisor"		"200"
