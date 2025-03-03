@@ -1,6 +1,6 @@
 WeaponData
 {
-	"MaxPlayerSpeed"		"250"
+	"MaxPlayerSpeed"		"900" // lets see you get a sick knife frag now, suckers.
 	"WeaponType"			"Knife"
 	"WeaponPrice"			"0"
 	"WeaponArmorRatio"		"1.7"
@@ -9,17 +9,17 @@ WeaponData
 	"Team"				"ANY"
 	"BuiltRightHanded"		"1"
 	"PlayerAnimationExtension"	"knife"
-	"MuzzleFlashScale"		"0"
-	"MuzzleFlashStyle"		"CS_MUZZLEFLASH_NONE"
+	"MuzzleFlashScale"		"1.9" // made the flash big
+	"MuzzleFlashStyle"		"CS_MUZZLEFLASH_X" // muzzle flash for a knife lole
 	"CanEquipWithShield"		"1"
 	
 	
 	// Weapon characteristics:
 	"Penetration"			"1"
-	"Damage"			"50"
+	"Damage"			"20" // 50 -> 20 because bleg
 	"Range"				"4096"
 	"RangeModifier"			"0.99"
-	"Bullets"			"1"
+	"Bullets"			"4" // 20 * 4 = 80, so if you land all 4 it'll be fine.
 	
 	// Weapon data is loaded by both the Game and Client DLLs.
 	"printname"			"#Cstrike_WPNHUD_Knife"
@@ -43,8 +43,8 @@ WeaponData
 	{
 		"reload"			"Default.Reload"
 		"empty"				"Default.ClipEmpty_Rifle"
-		"single_shot"		"Weapon_DEagle.Single"
-	}
+		"single_shot"		"Weapon_DEagle.Single" // why the hell does knife have deagle sounds??
+	}						       // no seriously, why?! I'm actually confused right now.
 
 	// Weapon Sprite data is loaded by the Client DLL.
 	TextureData
