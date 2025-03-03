@@ -1,6 +1,6 @@
 WeaponData
 {
-	"MaxPlayerSpeed"		"250"
+	"MaxPlayerSpeed"		"280"
 	"WeaponType"			"SubMachinegun"
 	"FullAuto"				1
 	"WeaponPrice"			"1250"
@@ -18,14 +18,14 @@ WeaponData
 	
 	// Weapon characteristics:
 	"Penetration"			"1"
-	"Damage"			"26"
+	"Damage"			"40"
 	"Range"				"4096"
 	"RangeModifier"			"0.84"
-	"Bullets"			"1"
+	"Bullets"			"3"
 	"CycleTime"			"0.07"
 	"AccuracyDivisor"		"200"
 	"AccuracyOffset"		"0.55"
-	"MaxInaccuracy"			"1.4"
+	"MaxInaccuracy"			"0.5"
 	"TimeToIdle"			"2"
 	"IdleInterval"			"20"
 	
@@ -51,12 +51,12 @@ WeaponData
 	"bucket"			"0"
 	"bucket_position"		"0"
 
-	"clip_size"			"30"
+	"clip_size"			"45"
 	
 	"primary_ammo"			"BULLET_PLAYER_9MM"
 	"secondary_ammo"		"None"
 
-	"weight"			"25"
+	"weight"			"1"
 	"item_flags"			"0"
 
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
