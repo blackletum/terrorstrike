@@ -16,9 +16,9 @@ WeaponData
 	
 	
 	// Weapon characteristics:
-	"Penetration"			"1"
-	"Damage"			"64"
-	"Range"				"5000"
+	"Penetration"			"4" // editing a ton of the m3 shit
+	"Damage"			"72" // 64 -> 72
+	"Range"				"6500" // 5000 -> 6500
 	"RangeModifier"			"0.01"
 	"Bullets"			"32"
 	"CycleTime"			"0.01"
