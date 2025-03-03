@@ -1,10 +1,10 @@
 WeaponData
 {
-	"MaxPlayerSpeed" 		"220"
+	"MaxPlayerSpeed" 		"360"
 	"WeaponType"			"Shotgun"
 	"FullAuto"				1
 	"WeaponPrice"			"1700"
-	"WeaponArmorRatio"		"1.0"
+	"WeaponArmorRatio"		"2.0"
 	"CrosshairMinDistance"		"8"
 	"CrosshairDeltaDistance"	"6"
 	"Team"				"ANY"
@@ -17,21 +17,21 @@ WeaponData
 	
 	// Weapon characteristics:
 	"Penetration"			"1"
-	"Damage"			"26"
-	"Range"				"3000"
-	"RangeModifier"			"0.70"
-	"Bullets"			"9"
-	"CycleTime"			"0.88"
+	"Damage"			"64"
+	"Range"				"5000"
+	"RangeModifier"			"0.01"
+	"Bullets"			"32"
+	"CycleTime"			"0.01"
 	
 	// New accuracy model parameters
-	"Spread"					0.04000
-	"InaccuracyCrouch"			0.00750
-	"InaccuracyStand"			0.01000
-	"InaccuracyJump"			0.42000
-	"InaccuracyLand"			0.08400
-	"InaccuracyLadder"			0.07875
-	"InaccuracyFire"			0.04164
-	"InaccuracyMove"			0.04320
+	"Spread"					0.00001
+	"InaccuracyCrouch"			0.00001
+	"InaccuracyStand"			0.00010
+	"InaccuracyJump"			0.00010
+	"InaccuracyLand"			0.00400
+	"InaccuracyLadder"			0.00875
+	"InaccuracyFire"			0.00164
+	"InaccuracyMove"			0.00320
 								 
 	"RecoveryTimeCrouch"		0.29605
 	"RecoveryTimeStand"			0.41447
