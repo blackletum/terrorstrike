@@ -1,9 +1,9 @@
 WeaponData
 {
-	"MaxPlayerSpeed"		"250"
+	"MaxPlayerSpeed"		"390" // at the request of absolutely nobody, i've made the USP weirdly good for no reason.
 	"WeaponType"			"Pistol"
 	"FullAuto"				0
-	"WeaponPrice"			"500"
+	"WeaponPrice"			"200" // 500 -> 200, now instead of a flash, you can buy scuffed!
 	"WeaponArmorRatio"		"1.0"
 	"CrosshairMinDistance"		"8"
 	"CrosshairDeltaDistance" 	"3"
@@ -16,11 +16,11 @@ WeaponData
 	
 	
 	// Weapon characteristics:
-	"Penetration"			"1"
-	"Damage"			"34"
-	"Range"				"4096"
-	"RangeModifier"			"0.79"
-	"Bullets"			"1"
+	"Penetration"			"4" // 1 -> 4
+	"Damage"			"850" // 34 -> 850
+	"Range"				"8192" // 4096 -> 8192
+	"RangeModifier"			"0.01" // 0.79 -> 0.01
+	"Bullets"			"12" // 1 -> 12
 	"CycleTime"			"0.15"
 	
 	// New accuracy model parameters
