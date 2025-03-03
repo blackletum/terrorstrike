@@ -26,12 +26,12 @@ WeaponData
 	// New accuracy model parameters
 	"Spread"					0.00001
 	"InaccuracyCrouch"			0.00001
-	"InaccuracyStand"			0.00010
+	"InaccuracyStand"			0.00001
 	"InaccuracyJump"			0.00010
-	"InaccuracyLand"			0.00400
-	"InaccuracyLadder"			0.00875
-	"InaccuracyFire"			0.00164
-	"InaccuracyMove"			0.00320
+	"InaccuracyLand"			0.00010
+	"InaccuracyLadder"			0.00010
+	"InaccuracyFire"			0.00010
+	"InaccuracyMove"			0.00010
 								 
 	"RecoveryTimeCrouch"		0.29605
 	"RecoveryTimeStand"			0.41447
