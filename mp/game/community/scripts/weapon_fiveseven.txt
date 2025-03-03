@@ -1,24 +1,24 @@
 WeaponData
 {
-	"MaxPlayerSpeed"		"250"
+	"MaxPlayerSpeed"		"360" // 250 -> 360 because why not
 	"WeaponType"			"Pistol"
 	"FullAuto"				0
-	"WeaponPrice"			"750"
+	"WeaponPrice"			"550" // same price as deagle, making the FivESeveN the new meta.
 	"WeaponArmorRatio"		"1.5"
 	"CrosshairMinDistance"		"8"
 	"CrosshairDeltaDistance"	"3"
-	"Team"				"CT"
+	"Team"				"ANY" // I did this because Ts deserve the FivESeveN too.
 	"BuiltRightHanded"		"0"
 	"PlayerAnimationExtension"	"pistol"
 	"MuzzleFlashScale"		"1"
 	
-	"CanEquipWithShield"		"1"
-	
+	"CanEquipWithShield"		"1" // why does this flag still exist, shield doesn't exist in CS:S!
+					    // at least, not in the final build.
 	
 	// Weapon characteristics:
-	"Penetration"			"1"
-	"Damage"			"25"
-	"Range"				"4096"
+	"Penetration"			"2" // 1 -> 2 
+	"Damage"			"35" // 25(?) -> 35 because we love high damage values.
+	"Range"				"8192" // 4096 -> 8192, no reason, just felt like it.
 	"RangeModifier"			"0.885"
 	"Bullets"			"1"
 	"CycleTime"			"0.15"
