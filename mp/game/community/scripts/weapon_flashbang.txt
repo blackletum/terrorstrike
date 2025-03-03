@@ -1,8 +1,8 @@
 WeaponData
 {
-	"MaxPlayerSpeed" 		"250"
+	"MaxPlayerSpeed" 		"340"
 	"WeaponType" 			"Grenade"
-	"WeaponPrice" 			"200"
+	"WeaponPrice" 			"150"
 	"WeaponArmorRatio"		"1"
 	"CrosshairMinDistance"		"7"
 	"CrosshairDeltaDistance"	"3"
@@ -16,10 +16,10 @@ WeaponData
 	
 	// Weapon characteristics:
 	"Penetration"			"1"
-	"Damage"			"50"
-	"Range"				"4096"
+	"Damage"			"360"
+	"Range"				"8192"
 	"RangeModifier"			"0.99"
-	"Bullets"			"1"
+	"Bullets"			"3"
 	
 	// Weapon data is loaded by both the Game and Client DLLs.
 	"printname"			"#Cstrike_WPNHUD_Flashbang"
