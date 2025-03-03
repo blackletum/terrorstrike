@@ -17,10 +17,10 @@ WeaponData
 			
 	// Weapon characteristics:
 	"Penetration"			"1"
-	"Damage"			"40"
+	"Damage"			"60"
 	"Range"				"4096"
 	"RangeModifier"			"0.8"
-	"Bullets"			"1"
+	"Bullets"			"3"
 	"CycleTime"			"0.15"
 	
 	// New accuracy model parameters
@@ -45,12 +45,12 @@ WeaponData
 	"bucket"			"1"
 	"bucket_position"		"1"
 
-	"clip_size"			"13"
+	"clip_size"			"18"
 	
 	"primary_ammo"			"BULLET_PLAYER_357SIG"
 	"secondary_ammo"		"None"
 
-	"weight"			"5"
+	"weight"			"2"
 	"item_flags"			"0"
 
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
