@@ -72,7 +72,7 @@
 		{
 			"settings"
 			{
-				"name"			"Roboto Medium"
+				"name"			"Comic Sans MS"
 				"tall"			"64"
 				"weight"		"400"
 				"antialias"		"1"
@@ -83,7 +83,7 @@
 		{
 			"settings"
 			{
-				"name"			"Noto Sans"
+				"name"			"Comic Sans MS"
 				"tall"			"25"
 				"weight"		"400"
 				"antialias"		"1"
@@ -94,7 +94,7 @@
 		{
 			"settings"
 			{
-				"name"			"Noto Sans"
+				"name"			"Comic Sans MS"
 				"tall"			"16"
 				"weight"		"400"
 				"antialias"		"1"
@@ -108,5 +108,6 @@
 		"file"		"resource2/fonts/FacileSans.ttf" // Facile Sans
 		"file"		"resource2/fonts/Roboto-Medium.ttf" // Roboto Medium
 		"file"		"resource2/fonts/nokia-pure-text.ttf" // Nokia Pure Text Regular
+		"file"		"resource2/fonts/ComicSansMS.ttf" // the best font ever - nrk
 	}
 }
