@@ -1,9 +1,9 @@
 WeaponData
 {
-	"MaxPlayerSpeed" 		"260"
+	"MaxPlayerSpeed" 		"460" // cuz why not
 	"WeaponType" 			"SniperRifle"
 	"FullAuto"				0
-	"WeaponPrice"			"2750"
+	"WeaponPrice"			"4750" // awp's price + 1k = definitely good balancing
 	"WeaponArmorRatio"		"1.7"
 	"CrosshairMinDistance"		"5"
 	"CrosshairDeltaDistance"	"3"
@@ -16,12 +16,12 @@ WeaponData
 	
 	
 	// Weapon characteristics:
-	"Penetration"			"3"
-	"Damage"			"75"
-	"Range"				"8192"
-	"RangeModifier"			"0.98"
-	"Bullets"			"1"
-	"CycleTime"			"1.25"
+	"Penetration"			"4" // bleggghh
+	"Damage"			"150" // bumped up to 150 cuz i like scout
+	"Range"				"16384" // hopefully this accepts my good value
+	"RangeModifier"			"0.01" // hopefully this makes it good
+	"Bullets"			"1" // still 1 bullet
+	"CycleTime"			"1.50" // bumped up to 1.50 cuz balacing
 	"AccuracyDivisor"		"-1"
 	"AccuracyOffset"		"0"
 	"MaxInaccuracy"			"0"
@@ -59,12 +59,12 @@ WeaponData
 	"bucket"			"0"
 	"bucket_position"		"0"
 
-	"clip_size"			"10"
+	"clip_size"			"7" // lowered to 7 because of higher damage vals
 	
 	"primary_ammo"			"BULLET_PLAYER_762MM"
 	"secondary_ammo"		"None"
 
-	"weight"			"30"
+	"weight"			"2" // because why not
 	"item_flags"			"0"
 
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
