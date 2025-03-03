@@ -1,12 +1,12 @@
 WeaponData
 {
-	"MaxPlayerSpeed"			"210"
-	"WeaponType" 			"SniperRifle"
-	"FullAuto"				0
-	"WeaponPrice"			"4750"
-	"WeaponArmorRatio"		"1.95"
-	"CrosshairMinDistance"		"8"
-	"CrosshairDeltaDistance"	"3"
+	"MaxPlayerSpeed"			"220" // literally the only thing i'm gonna change about the awp.
+	"WeaponType" 			"SniperRifle" // this thing's too good already and my general goal is to
+	"FullAuto"				0     // make everything make the awp pretty much obsolete.
+	"WeaponPrice"			"4750"	      // why?
+	"WeaponArmorRatio"		"1.95"        // well, because i can, you insolent dolt.
+	"CrosshairMinDistance"		"8"	      // jk lol, luv u <33
+	"CrosshairDeltaDistance"	"3"	      // - nrk
 	"Team"				"ANY"
 	"BuiltRightHanded"		"0"
 	"PlayerAnimationExtension" 	"awp"
