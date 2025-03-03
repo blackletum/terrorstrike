@@ -16,18 +16,18 @@ WeaponData
 
 
 	// Weapon characteristics:
-	"Penetration"			"1"
-	"Damage"			"25"
-	"Range"				"4096"
-	"RangeModifier"			"0.75"
-	"Bullets"			"1"
-	"CycleTime"			"0.15"
-	
+	"Penetration"			"4" // 1 -> 4 because funny
+	"Damage"			"40" // 25 -> 40. i'd justify this, but i realized nobody's gonna read these.
+	"Range"				"4096" // so, even if you *do* end up reading these, you won't get my justifications
+	"RangeModifier"			"0.75" // for making the glock pure, unadulterated scuff.
+	"Bullets"			"1"    // besides, i think you'd agree with me that this gun kinda sucks to begin with.
+	"CycleTime"			"0.15" // it needs a new coat of paint and i think the new coat of paint should be a really
+					       // bad shade of green or yellow. - nrk
 	// New accuracy model parameters
-	"Spread"					0.00400
-	"InaccuracyCrouch"			0.00750
-	"InaccuracyStand"			0.01000
-	"InaccuracyJump"			0.27750
+	"Spread"					0.00400 // im not modifying these!
+	"InaccuracyCrouch"			0.00750		// sure, i might be making the weapons uber-scuffed,
+	"InaccuracyStand"			0.01000		// but im not modifying accuracy vals, at least not right now.
+	"InaccuracyJump"			0.27750		// i'll do these later.
 	"InaccuracyLand"			0.05550
 	"InaccuracyLadder"			0.01850
 	"InaccuracyFire"			0.03167
