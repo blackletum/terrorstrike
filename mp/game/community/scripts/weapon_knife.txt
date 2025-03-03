@@ -7,8 +7,8 @@ WeaponData
 	"CrosshairMinDistance"		"7"
 	"CrosshairDeltaDistance"	"3"
 	"Team"				"ANY"
-	"BuiltRightHanded"		"1"
-	"PlayerAnimationExtension"	"knife"
+	"BuiltRightHanded"		"1"     // why is this one of the few weapons with this flag set to 1?
+	"PlayerAnimationExtension"	"knife" // duh.
 	"MuzzleFlashScale"		"1.9" // made the flash big
 	"MuzzleFlashStyle"		"CS_MUZZLEFLASH_X" // muzzle flash for a knife lole
 	"CanEquipWithShield"		"1"
