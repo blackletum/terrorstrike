@@ -1,9 +1,9 @@
 WeaponData
 {
-	"MaxPlayerSpeed"		"250"
+	"MaxPlayerSpeed"		"350" // 250 -> 350
 	"WeaponType" 			"Pistol"
-	"FullAuto"				0
-	"WeaponPrice" 			"800"
+	"FullAuto"				1 // 0 -> 1
+	"WeaponPrice" 			"700" // 800 -> 700
 	"WeaponArmorRatio" 		"1.05"
 	"CrosshairMinDistance" 		"4"
 	"CrosshairDeltaDistance" 	"3"
@@ -16,11 +16,11 @@ WeaponData
 	
 	
 	// Weapon characteristics:
-	"Penetration"		"1"
-	"Damage"			"45"
+	"Penetration"		"4" // 1 -> 4
+	"Damage"			"90" // 45 -> 90
 	"Range"				"4096"
 	"RangeModifier"		"0.75"
-	"Bullets"			"1"
+	"Bullets"			"5" // 1 -> 5
 	"CycleTime"			"0.12"
 	
 	// New accuracy model parameters
