@@ -1,3 +1,7 @@
+## Scuffed weapons
+This fork is one I made out of boredom, makes the weapons EXTREMELY unbalanced.
+Certain weapons might be really OP, others really bad. Play with caution, for there is no meta.
+
 ## New Readme:
 This repo fixes bot pathfinding and ragdoll crashes. It also reimplements valves prototype gamemode for left 4 dead. Terror-Strike or Terror.
 You must add the TERROR macro to the server project to enable this.
