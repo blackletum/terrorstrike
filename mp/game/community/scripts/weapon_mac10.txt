@@ -17,14 +17,14 @@ WeaponData
 	
 	// Weapon characteristics:
 	"Penetration"			"1"
-	"Damage"			"29"
+	"Damage"			"45" // why not
 	"Range"				"4096"
 	"RangeModifier"			"0.82"
-	"Bullets"			"1"
-	"CycleTime"			"0.075"
-	"AccuracyDivisor"		"200"
-	"AccuracyOffset"		"0.6"
-	"MaxInaccuracy"			"1.65"
+	"Bullets"			"30"    // done just because i like the idea of the mac-10
+	"CycleTime"			"0.001" // being really op but really scuffed lol
+	"AccuracyDivisor"		"200"   // nobody's gonna play this s--- anyways, why not make the weapons
+	"AccuracyOffset"		"0.6"   // extremely bad?
+	"MaxInaccuracy"			"4"     // - nrk
 	"TimeToIdle"			"2"
 	"IdleInterval"			"20"
 
