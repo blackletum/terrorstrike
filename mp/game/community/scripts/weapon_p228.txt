@@ -1,6 +1,6 @@
 WeaponData
 {
-	"MaxPlayerSpeed" 		"250" 
+	"MaxPlayerSpeed" 		"300" 
 	"WeaponType" 			"Pistol"
 	"FullAuto"				0
 	"WeaponPrice" 			"600"
@@ -17,7 +17,7 @@ WeaponData
 			
 	// Weapon characteristics:
 	"Penetration"			"1"
-	"Damage"			"60"
+	"Damage"			"150"
 	"Range"				"4096"
 	"RangeModifier"			"0.8"
 	"Bullets"			"3"
