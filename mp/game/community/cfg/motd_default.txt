@@ -27,7 +27,7 @@ color: #0000ff;
 </head>
 <body>
 <center>
-<hedar>Hello!</hedar><br><br><welcome><i>Welcome to Terror-Strike: Source!</i></welcome><br><br><maprot><b><i>Our map rotation is...<br>zombie_city*</b></i></maprot><br><br>*and every other CS:S map in your/the host's <i>"maps"</i> folder.<br><br>(c) 2005(?) Valve, Mod by BillySB, MOTD by nrkceg2<br><contact>E-mail the MOTD creator: <i>reallygayrat@gmail.com</i></contact>
+<hedar>Hello!</hedar><br><br><welcome><i>Welcome to Terror-Strike: Source!</i></welcome><br><br><maprot><b><i>Our map rotation is...<br>zombie_city*</b></i></maprot><br><br>*and every other CS:S map in your/the host's <i>"maps"</i> folder.<br><br>(c) 2005(?) Valve, Mod by BillySB, MOTD by nrkceg2<br><contact>E-mail the MOTD creator: <i>gourmand@obamaburger.com</i></contact>
 </center>
 </body>
 </html>
