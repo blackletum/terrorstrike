@@ -1,29 +1,7 @@
-## New Readme:
-This repo fixes bot pathfinding and ragdoll crashes. It also reimplements valves prototype gamemode for left 4 dead. Terror-Strike or Terror.
-You must add the TERROR macro to the server project to enable this.
-
-## My game crashes!
-First make sure you have Counter-Strike: Source installed.
-If this is while loading a map it might be an unsupported navmesh file version. Remove this file and try again.
-
-## Original Readme: Counter Strike Source: Community Edition
-
-**Counter Strike Source: Community Edition** is open source port of the leaked 2007 Source engine leak of the award winner Counter Strike Source. 
-
-This mod is orient to Community so everyone can grow the mod with his Contributions.
-Currently this mod is in a pre-alpha state so don’t expected any class of bugs.
-
-### Goals
-
-- [x] Finish the port of the game to Source 2013
-- [ ] Make fully functional the cut VIP mode so everyone can play it without server plugins
-- [ ] Make fully functional the cut Prison Scape so everyone can play it without server plugins
-- [ ] Implement a DM mode like CSPromod
-- [ ] Redo the Bots and hostage’s AI using the [(Nextbot System)](https://developer.valvesoftware.com/wiki/NextBot)
-- [ ] Implement the Vote System so everyone can vote without using plugins
-- [ ] Implement Class Based Hands Like CSGO
-- [ ] Implement CSPromod's Shadows RTT
-- [ ] Bring back to life the shield.
+### pull req 2 (fork)
+- why?
+cuz i can, bitch, you cant stop me >:3
+to billy: its just pull req 2 with more major changes because i wanna do some more with it without fucking up the request that's been waiting to merge for 6 months (as of writing)
 
 ### Warning
 
