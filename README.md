@@ -75,3 +75,4 @@ This mod was originally made to transition everybody from CS:S to CS:S:CE, but y
 |         **Sregor**          |                   **Left 4 Dead common infected player models.**                    |
 |   **FriskTheFallenHuman**   |                **Original cscommunity repo that this fork builds on**    |
 |         **nrkceg2**         |     **motd, gameinfo, ~~eating~~ modding a lot of res files, and weapon stuffs.**       |
+| **BillyBlueberry** | **the game.ico i use in main branch, will add to pullreq 2** |
