@@ -1,0 +1,22 @@
+NN   NN  RRRRRR    KK  KK   CCCCCC  EEEEEEEE   GGGGGG   222222
+NNN  NN  RR    RR  KK KK   CCCCCCC  EE        GG   GG  22    22
+NNNN NN  RR    RR  KKKK    CC       EEEE      GG            22
+NN NNNN  RRRRRR    KK KK   CC       EE        GG GGGG      22
+NN  NNN  RR   RR   KK  KK  CCCCCCC  EE        GG   GG    22
+NN   NN  RR    RR  KK   KK  CCCCCC  EEEEEEEE   GGGGGG  22222222
+
+to do list for the mod :)
+
+created 02 Dec 2024
+
+---------------------------------------------------------------
+
+make scrollable* Buy menu, allows for most if not all the
+guns for both sides to be used by both teams and be (cleanly)
+displayed in one VGUI menu.
+
+*Might be not scrollable, but have adjusted buttons and whatnot
+since I wanna keep my res files simple to prevent possible bugs
+in the future
+
+================================================================
